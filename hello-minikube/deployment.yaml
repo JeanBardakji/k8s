@@ -5,7 +5,7 @@ metadata:
     app: hello-minikube
   name: hello-minikube
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: hello-minikube
